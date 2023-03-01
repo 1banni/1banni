@@ -4,9 +4,6 @@
 **1banni/1banni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-Here are some ideas to get you started:
-
 - 🔭 I am a software engineer proficient in JavaScript, React/Redux, and Ruby on Rails
 - 🌱 I’m currently learning Python and TypeScript.
 - 👯 I’m looking to collaborate on coding projects
