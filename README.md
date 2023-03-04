@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on coding projects
 - 🤔 I’m looking for help with: finding a software engineering job
 - 📫 How to reach me: [bannister.will@gmail.com](bannister.will@gmail.com)
-- ⚡ Fun fact: Alvin Kamara ran me over in high school 😂 https://www.youtube.com/watch?v=EY_26LZRC0k
 
 ### Languages and Tools:
 
