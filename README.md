@@ -4,10 +4,7 @@
 **1banni/1banni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I am a software engineer proficient in JavaScript, React/Redux, and Ruby on Rails
-- 🌱 I’m currently learning Python and TypeScript.
-- 👯 I’m looking to collaborate on coding projects
-- 🤔 I’m looking for help with: finding a software engineering job
+- 🔭 I am a software engineer proficient in Python, JavaScript, React/Redux, and Ruby on Rails
 - 📫 How to reach me: [bannister.will@gmail.com](bannister.will@gmail.com)
 
 ### Languages and Tools:
